@@ -2,7 +2,7 @@
 
 **Founder @ [Assemblr](https://assemblr.net) · Building autonomous agents that mine how your team actually works**
 
-20-year-old founder. I dropped out of UMass Amherst (CS) to build Assemblr full-time in San Francisco. I ship production AI systems, not demos.
+20-year-old founder. Sophomore at UMass Amherst. I ship production AI systems, not demos.
 
 <p align="left">
   <a href="https://aryamangoenka.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
