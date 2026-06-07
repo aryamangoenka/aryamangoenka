@@ -5,6 +5,7 @@
 20-year-old founder. I dropped out of UMass Amherst (CS) to build Assemblr full-time in San Francisco. I ship production AI systems, not demos.
 
 <p align="left">
+  <a href="https://aryamangoenka.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aryamangoenka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://assemblr.net"><img src="https://img.shields.io/badge/Assemblr-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Assemblr"/></a>
   <a href="mailto:aryamansgoenka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -72,8 +73,19 @@ Running the largest tech organization at UMass. Grew participation 30% via a rec
 
 ---
 
+## 📊 GitHub
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryamangoenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamangoenka&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 > *"The worst thing you can do is not show up."*
 
-📫 **Building design partners for Assemblr.** If you run an engineering team and coordination is breaking as you scale, [let's talk](https://assemblr.net).
+📫 **Building design partners for Assemblr.** If you run an engineering team and coordination is breaking as you scale, [let's talk](https://assemblr.net). More at [aryamangoenka.com](https://aryamangoenka.com).
