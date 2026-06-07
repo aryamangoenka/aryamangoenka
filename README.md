@@ -1,71 +1,90 @@
-# 👋 Hey there, I'm Aryaman Goenka!
+# Hi, I'm Aryaman Goenka 👋
 
-I'm a Computer Science student at UMass Amherst (Class of 2028) passionate about building intelligent systems that make a real-world impact. From drag-and-drop neural networks to MLOps automation and ethical AI moderation tools — I love turning ideas into scalable products using Python, JavaScript, and a touch of curiosity.
+**Founder @ [Assemblr](https://assemblr.net) · Building autonomous agents that mine how your team actually works**
 
-Currently learning ML through the MIT Break Through Tech AI Program and leading AI-driven projects through MassAI.
+20-year-old founder. I dropped out of UMass Amherst (CS) to build Assemblr full-time in San Francisco. I ship production AI systems, not demos.
 
----
-
-## 🧰 Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryamangoenka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://assemblr.net"><img src="https://img.shields.io/badge/Assemblr-000000?style=for-the-badge&logo=rocket&logoColor=white" alt="Assemblr"/></a>
+  <a href="mailto:aryamansgoenka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm building
 
-### [🧱 Drag-and-Drop Neural Network Builder](https://neuroblock.co)
-Build, train, and export neural networks in your browser — no code required.  
-**Tech:** React, Flask, TensorFlow, PyTorch, WebSockets, GCP  
-→ Real-time training visualizations & export to `.py`, `.ipynb`, `.h5`, `ONNX`
+**[Assemblr](https://assemblr.net)** — Workflow intelligence for engineering teams. We mine behavioral patterns from the tools your team already lives in (GitHub, Slack, Linear, Notion, Google Workspace) and deploy autonomous DAG-based agents to execute the workflows we discover. Backed by Founders Inc. Building with [Aditya Vellanki](https://www.linkedin.com/in/adityahemanth/).
 
-### [📦 MLOps Deployment & Monitoring Platform](https://github.com/aryamangoenka)
-GitHub-integrated CI/CD for deploying ML models with drift detection.  
-**Tech:** FastAPI, Supabase, Celery, Docker  
-→ Auto-deploy models with validation and 24h drift alerts (PSI, KL)
-
-### [🛡️ AdminisAI – Real-Time AI Moderation System](https://github.com/aryamangoenka)
-Ethical moderation with Gemini API + Perspective API.  
-**Tech:** Cloudflare Workers, Chrome Extension, R2 Storage  
-→ Rephrases toxic content instead of deleting it.
-
-### [🚘 CarVision](https://github.com/aryamangoenka)
-Autonomous vehicle vision system using CNN and VGG16.  
-**Tech:** TensorFlow, Pandas, OpenCV  
-→ Achieved 84.4% detection accuracy with transfer learning.
+> Agents mined from how your team actually works.
 
 ---
 
-## 🌱 Hobbies & Leadership
+## 🏆 Selected wins
 
-- 👨‍💻 Project Lead @ **MassAI** — Leading AI-for-good initiatives.
-- 💡 E-Board @ **CICSoft** — Fostering student developer community.
-- ♟️ Freshman Rep @ **UMass Chess Club** — Budgeting, planning, and playing.
-- 🔬 Research Intern @ **Advanced Learning Technologies Lab** — Built multi-agent AI pipeline for behavioral analysis.
-- 🧠 Exploring AI ethics, ML infrastructure, and smart product design.
-
----
-
-## 📫 Let’s Connect!
-
-- 🌐 Website: [aryamangoenka.com](https://aryamangoenka.com)  
-- 💼 LinkedIn: [linkedin.com/in/aryamangoenka](https://linkedin.com/in/aryamangoenka)  
-- 📧 Email: aryamangoenk@umass.edu  
-- 🐙 GitHub: [@aryamangoenka](https://github.com/aryamangoenka)
+- 🥇 **1st Place — Voice & Video AI Hackathon** (HF0, Knowtex, NomadicML). Picked from **1,000+ applicants, 30 builders selected**. Built a winning product in 12 hours with a team I met that morning, demoed live to top VCs and AI engineers at the Archbishop's Mansion, SF.
+- 🎓 **MIT Breakthrough Tech AI Fellow** — competitive, fully-funded AI/ML program with real industry projects and mentorship.
+- 📈 **Susquehanna (SIG) Discovery Day Fellow** — selected for quantitative trading and probability-driven decision making.
+- 📄 **Published research, accepted to NUTRITION 2026** — co-authored work on LLM reliability in clinical dietary guidance.
+- ♟️ **1st Place — UMass Spring Classic (U1200)** — because I like winning at things.
 
 ---
 
-🧠 _“Build for users, learn from data, and automate the rest.”_
+## 💻 What I've shipped
+
+### Assemblr — *Co-Founder*
+Autonomous, DAG-based workflow agents built on behavioral pattern mining across an org's real activity streams.
+
+### Extractify @ ASAPP — *AI Engineering Intern*
+Agentic NLP system (**LangGraph**) for structured extraction from unstructured customer conversations. Processed **10K+ multi-turn dialogues at 95–100% accuracy** on key fields. Hybrid Regex + LLM-agent pipeline on Gemini 2.5 Flash; benchmarked with PCA/KMeans clustering and KNN classification (**F1 > 0.85**). Results presented to ASAPP ML leadership.
+
+### NeuroBlock — *Founder*
+Drag-and-drop neural network builder making ML education hands-on. Build, train, and export deep learning models (classification, regression, CNN) with real-time feedback. **Used by 500+ high school students.**
+
+### ML for Education Lab @ UMass — *Research Assistant*
+Evaluated frontier LLMs (GPT-4.5, Gemini 2.5, Claude 3.7, DeepSeek-R1) against WCRF/AICR clinical guidelines for accuracy, consistency, and bias. Built a multi-agent pipeline orchestrating Hugging Face APIs for parallelized insight generation; automated CSV-to-prompt tooling that **cut parsing time 60%.**
+
+### Production engineering
+**Paktolus** — Architected a full-stack user management system (Django REST, FastAPI, Next.js 15, TypeScript) with JWT auth and RBAC; **80%+ test coverage.**
+**telSpiel** — Built React dashboards supporting **150M+ daily interactions**, cutting navigation time 40% and compliance errors 35%.
+
+---
+
+## 🧠 President | CICSoft @ UMass
+Running the largest tech organization at UMass. Grew participation 30% via a recurring technical workshop and speaker series. We help peers land roles at serious places.
+
+---
+
+## 🛠️ Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</p>
+
+**Focus:** Agentic AI, LLM systems, multi-agent orchestration, production ML.
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+> *"The worst thing you can do is not show up."*
+
+📫 **Building design partners for Assemblr.** If you run an engineering team and coordination is breaking as you scale, [let's talk](https://assemblr.net).
