@@ -73,18 +73,6 @@ Running the largest tech organization at UMass. Grew participation 30% via a rec
 
 ---
 
-## 📊 GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aryamangoenka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamangoenka&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamangoenka&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 > *"The worst thing you can do is not show up."*
 
