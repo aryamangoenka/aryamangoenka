@@ -81,7 +81,7 @@ Running the largest tech organization at UMass. Grew participation 30% via a rec
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamangoenka&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
