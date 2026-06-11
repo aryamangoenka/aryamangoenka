@@ -56,7 +56,7 @@
   Agentic NLP system (**LangGraph**) for structured extraction from unstructured customer conversations. Processed **10K+ multi-turn dialogues at 95–100% accuracy** on key fields. Hybrid Regex +
   LLM-agent pipeline on Gemini 2.5 Flash; benchmarked with PCA/KMeans clustering and KNN classification (**F1 > 0.85**). Results presented to ASAPP ML leadership.
 
-  ### NeuroBlock — *Founder*
+  ### NeuroBlock — *Creator*
   Drag-and-drop neural network builder making ML education hands-on. Build, train, and export deep learning models (classification, regression, CNN) with real-time feedback. **Used by 500+ high school
   students.**
 
