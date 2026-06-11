@@ -48,6 +48,10 @@
   via MCP — with raw data never leaving the device. I build the on-device source connectors (WhatsApp, iMessage, Apple Notes — including the SQLite / typedstream / protobuf decoding paths) and the
   cloud compute + AWS infrastructure.
 
+  ### Assemblr — *Co-Founder (prior venture)*
+  Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear, Notion, Google Workspace) and deployed autonomous DAG-based agents
+  to execute discovered workflows. Backed by Founders Inc.
+
   ### Extractify @ ASAPP — *AI Engineering Intern*
   Agentic NLP system (**LangGraph**) for structured extraction from unstructured customer conversations. Processed **10K+ multi-turn dialogues at 95–100% accuracy** on key fields. Hybrid Regex +
   LLM-agent pipeline on Gemini 2.5 Flash; benchmarked with PCA/KMeans clustering and KNN classification (**F1 > 0.85**). Results presented to ASAPP ML leadership.
@@ -55,13 +59,6 @@
   ### NeuroBlock — *Founder*
   Drag-and-drop neural network builder making ML education hands-on. Build, train, and export deep learning models (classification, regression, CNN) with real-time feedback. **Used by 500+ high school
   students.**
-
-  ### Assemblr — *Co-Founder (prior venture)*
-  students.**
-
-  ### Assemblr — *Co-Founder (prior venture)*
-  Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear, Notion, Google Workspace) and deployed autonomous DAG-based agents
-  to execute discovered workflows. Backed by Founders Inc.
 
   ### ML for Education Lab @ UMass — *Research Assistant*
   Evaluated frontier LLMs (GPT-4.5, Gemini 2.5, Claude 3.7, DeepSeek-R1) against WCRF/AICR clinical guidelines for accuracy, consistency, and bias. Built a multi-agent pipeline orchestrating Hugging
