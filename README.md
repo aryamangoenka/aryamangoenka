@@ -25,7 +25,7 @@
   **Why it's different:** no one is building the intelligence layer across your *entire* life for *every* AI you use. Apple only sees Apple apps and only serves Siri; Google only sees GSuite and only
   serves Gemini. Sentient OS does ~95% of its compute on your own device — the only architecture that's both private and economically sane at scale.
 
-  **Traction:** 2,500+ waitlist signups in ~24 hours from one Reddit post ($0 marketing) · UMass Tech Challenge winner · YC S26 and a16z Speedrun interview invites. Launching publicly in 2026.
+  **Traction:** 2,500+ waitlist signups in ~24 hours. Launching launch soon.
 
   ---
 
