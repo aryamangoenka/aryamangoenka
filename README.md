@@ -70,8 +70,8 @@
 
   ---
 
-  ## 🧠 President | CICSoft @ UMass
-  Running the largest tech organization at UMass. Grew participation 30% via a recurring technical workshop and speaker series. We help peers land roles at serious places.
+  ## President | CICSoft @ UMass
+  Running the largest tech organization at UMass. Helping students land roles at crazy places!!!
 
   ---
 
