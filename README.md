@@ -14,7 +14,7 @@
 
   ---
 
-  ## 🚀 What I'm building
+  ## What I'm building
 
   **[Sentient OS](https://sentient-os.ai)** — An open-source (AGPL) macOS app that brings your *whole life* to *every* AI. It reads your entire digital life **on your own Mac** — files, WhatsApp,
   iMessage, Apple Notes, calendar — with a hyper-optimized on-device vision LLM, distills it into a private Obsidian-style markdown knowledge base, and exposes that to every AI you use (ChatGPT,
@@ -29,7 +29,7 @@
 
   ---
 
-  ## 🏆 Selected wins
+  ## Selected wins
 
   - 🥇 **1st Place — Voice & Video AI Hackathon** (HF0, Knowtex, NomadicML). Picked from **1,000+ applicants, 30 builders selected**. Built a winning product in 12 hours with a team I met that
   morning, demoed live to top VCs and AI engineers at the Archbishop's Mansion, SF.
@@ -41,7 +41,7 @@
 
   ---
 
-  ## 💻 What I've shipped
+  ## What I've shipped
 
   ### Sentient OS — *Co-Founder / COO*
   A native macOS intelligence layer that runs a hyper-optimized on-device LLM (Gemma 4 E4B via LiteRT-LM) over your real digital life and turns it into an agent-native knowledge base served to any AI
