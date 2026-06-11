@@ -43,7 +43,7 @@
 
   ## 💻 What I've shipped
 
-  ### Sentient OS — *Co-Founder / Engineer*
+  ### Sentient OS — *Co-Founder / COO*
   A native macOS intelligence layer that runs a hyper-optimized on-device LLM (Gemma 4 E4B via LiteRT-LM) over your real digital life and turns it into an agent-native knowledge base served to any AI
   via MCP — with raw data never leaving the device. I build the on-device source connectors (WhatsApp, iMessage, Apple Notes — including the SQLite / typedstream / protobuf decoding paths) and the
   cloud compute + AWS infrastructure.
