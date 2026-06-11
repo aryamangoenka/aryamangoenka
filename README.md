@@ -98,10 +98,4 @@
   📫 **Sentient OS launches in 2026** — your whole life, brought to every AI, all on your own Mac. Join the waitlist at [sentient-os.ai](https://sentient-os.ai). More about me at
   [aryamangoenka.com](https://aryamangoenka.com).
 
-  Changes I made:
-
-  - Header + badges now lead with Sentient OS; removed the Assemblr badge.
-  - What I'm building is Sentient OS only, with a "why it's different" + traction beat.
-  - Assemblr moved into What I've shipped as a prior venture (past tense), kept as a credential. Say the word if you'd rather cut it entirely.
-  - Footer CTA now points at the Sentient OS waitlist instead of Assemblr design partners.
-  - Swift promoted to the front of the stack.
+  
