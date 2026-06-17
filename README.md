@@ -1,8 +1,8 @@
 # Hi, I'm Aryaman Goenka 👋
 
-**Builder · Founder · 20-year-old sophomore @ UMass Amherst**
+**Builder · 20-year-old sophomore @ UMass Amherst**
 
-I ship production AI systems — agentic pipelines, on-device inference, real ML — not demos. I move fast, I teach what I learn, and I'd rather build the thing than talk about building it.
+I ship production AI systems — agentic pipelines, applied ML, infrastructure — not demos. I move fast, I teach what I learn, and I'd rather build the thing than talk about building it.
 
 <p align="left">
   <a href="https://aryamangoenka.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -24,6 +24,9 @@ I ship production AI systems — agentic pipelines, on-device inference, real ML
 
 ## 🚀 What I've shipped
 
+### Assemblr — *Co-Founder*
+Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear, Notion, Google Workspace) and deployed autonomous DAG-based agents to execute discovered workflows. Backed by **Founders Inc.**
+
 ### Extractify @ ASAPP — *AI Engineering Fellow*
 Agentic NLP system (**LangGraph**) for structured extraction from unstructured customer conversations. Processed **10K+ multi-turn dialogues at 95–100% accuracy** on key fields. Hybrid Regex + LLM-agent pipeline on Gemini 2.5 Flash; benchmarked with PCA/KMeans clustering and KNN classification (**F1 > 0.85**). Presented to ASAPP ML leadership.
 
@@ -32,9 +35,6 @@ Drag-and-drop neural network builder that makes ML education hands-on. Build, tr
 
 ### ML for Education Lab @ UMass — *Research Assistant*
 Evaluated frontier LLMs (GPT-4.5, Gemini 2.5, Claude 3.7, DeepSeek-R1) against WCRF/AICR clinical guidelines for accuracy, consistency, and bias. Built a multi-agent pipeline orchestrating Hugging Face APIs for parallelized insight generation; automated CSV-to-prompt tooling that **cut parsing time 60%.** (→ research accepted to NUTRITION 2026.)
-
-### Assemblr — *Co-Founder*
-Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear, Notion, Google Workspace) and deployed autonomous DAG-based agents to execute discovered workflows. Backed by **Founders Inc.**
 
 ### Production engineering
 - **Paktolus** — Architected a full-stack user management system (Django REST, FastAPI, Next.js 15, TypeScript) with JWT auth and RBAC; **80%+ test coverage.**
