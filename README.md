@@ -25,7 +25,7 @@ I ship production AI systems — agentic pipelines, applied ML, infrastructure �
 ## Some of my Past Experiences
 
 ### Assemblr — *Co-Founder & CEO*
-Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear) and deployed autonomous DAG-based agents to execute discovered workflows. Backed by **Founders Inc.** Speedrun **Top 10%.** YC **Top 10%.**
+Workflow intelligence for teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear) and deployed autonomous DAG-based agents to execute discovered workflows. Backed by **Founders Inc.** Speedrun **Top 10%.** YC **Top 10%.**
 
 ### Extractify @ ASAPP — *AI Engineering Fellow*
 Agentic NLP system (**LangGraph**) for structured extraction from unstructured customer conversations. Processed **10K+ multi-turn dialogues at 95–100% accuracy** on key fields. Hybrid Regex + LLM-agent pipeline on Gemini 2.5 Flash; benchmarked with PCA/KMeans clustering and KNN classification (**F1 > 0.85**). Presented to ASAPP ML leadership.
