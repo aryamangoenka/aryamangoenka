@@ -24,7 +24,7 @@ I ship production AI systems — agentic pipelines, applied ML, infrastructure �
 
 ## Some of my Past Experiences
 
-### Assemblr — *Co-Founder*
+### Assemblr — *Co-Founder & CEO*
 Workflow intelligence for engineering teams: mined behavioral patterns from the tools teams already live in (GitHub, Slack, Linear) and deployed autonomous DAG-based agents to execute discovered workflows. Backed by **Founders Inc.** Speedrun **Top 10%.** YC **Top 10%.**
 
 ### Extractify @ ASAPP — *AI Engineering Fellow*
