@@ -1,6 +1,6 @@
 # Hi, I'm Aryaman Goenka 👋
 
-**Builder · 20-year-old junior @ UMass Amherst**
+**junior @ UMass Amherst**
 
 I ship production AI systems — agentic pipelines, applied ML, infrastructure — not demos. I move fast, I teach what I learn, and I'd rather build the thing than talk about building it.
 
