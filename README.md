@@ -55,7 +55,6 @@ I'm happiest when I'm making something that real people use.
 
 - **Competitive chess** — 🥇 1st Place, UMass Spring Classic (U1200). I like winning at things, and I like the kind of slow, ruthless thinking it trains.
 - **I teach.** NeuroBlock put hands-on machine learning in front of 500+ high schoolers, and as CICSoft president I spend most of my energy getting other students into rooms they didn't think they could reach.
-- **Probability & markets** — the SIG fellowship rewired how I think about decisions: bet on expected value, size your conviction, and don't confuse a good outcome with a good process.
 - **I build because I can't not** — I'd rather ship a rough v1 today than a perfect plan next month.
 
 > *"The worst thing you can do is not show up."*
