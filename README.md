@@ -2,7 +2,7 @@
 
 **junior @ UMass Amherst**
 
-I ship production AI systems: agentic pipelines, applied ML, infrastructure. I move fast, I teach what I learn, and I'd rather build the thing than talk about building it.
+I ship production AI systems: agentic pipelines, applied ML, infrastructure. I move fast, and I'd rather build the thing than talk about building it.
 
 <p align="left">
 
