@@ -57,7 +57,7 @@ I'm happiest when I'm making something that real people use.
 - **I teach.** NeuroBlock put hands-on machine learning in front of 500+ high schoolers, and as CICSoft president I spend most of my energy getting other students into rooms they didn't think they could reach.
 - **I build because I can't not** — I'd rather ship a rough v1 today than a perfect plan next month.
 
-> *"The worst thing you can do is not show up."*
+
 
 ---
 
