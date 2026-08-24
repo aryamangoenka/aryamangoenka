@@ -17,7 +17,7 @@ I ship production AI systems: agentic pipelines, applied ML, infrastructure. I m
 - **1st Place — HF0 AI Hackathon** — selected as **1 of 30 builders from 1,000+ applicants**; built a winning product in 12 hours with a team I met that morning and demoed live to top VCs and AI engineers in SF.
 - **Breakthrough Tech AI Fellow — MIT** — competitive, fully-funded AI/ML fellowship with real industry projects and mentorship.
 - **AI Engineering Fellow — ASAPP** — shipped an agentic NLP extraction system processing **10K+ multi-turn dialogues at 95–100% accuracy**; results presented to ASAPP ML leadership.
-- **Co-authored AI research — accepted to NUTRITION 2026 (American Society for Nutrition / ASN)** — on LLM reliability in clinical dietary guidance.
+- **Co-authored AI research — accepted to ASN** — on LLM reliability in clinical dietary guidance.
 - **Left a Purdue research offer to build full-time** — because the worst thing you can do is not show up.
 
 ---
