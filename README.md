@@ -1,4 +1,4 @@
-# Hi, I'm Aryaman Goenka 👋
+# Hi, I'm Aryaman Goenka 
 
 **junior @ UMass Amherst**
 
