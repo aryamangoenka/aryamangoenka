@@ -18,7 +18,7 @@ I ship production AI systems: agentic pipelines, applied ML, infrastructure. I m
 - **Breakthrough Tech AI Fellow — MIT** — competitive, fully-funded AI/ML fellowship with real industry projects and mentorship.
 - **AI Engineering Fellow — ASAPP** — shipped an agentic NLP extraction system processing **10K+ multi-turn dialogues at 95–100% accuracy**; results presented to ASAPP ML leadership.
 - **Co-authored AI research — accepted to ASN** — on LLM reliability in clinical dietary guidance.
-- **Left a Purdue research offer to build full-time** — because the worst thing you can do is not show up.
+
 
 ---
 
