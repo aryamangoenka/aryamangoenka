@@ -49,18 +49,6 @@ Evaluated frontier LLMs (GPT-4.5, Gemini 2.5, Claude 3.7, DeepSeek-R1) against W
 
 ---
 
-## Beyond the code
-
-I'm happiest when I'm making something that real people use.
-
-- **Competitive chess** — 🥇 1st Place, UMass Spring Classic (U1200). I like winning at things, and I like the kind of slow, ruthless thinking it trains.
-- **I teach.** NeuroBlock put hands-on machine learning in front of 500+ high schoolers, and as CICSoft president I spend most of my energy getting other students into rooms they didn't think they could reach.
-- **I build because I can't not** — I'd rather ship a rough v1 today than a perfect plan next month.
-
-
-
----
-
 ## Stack
 
 <p align="left">
